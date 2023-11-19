@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivangi016
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS Node JS MongoDb
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me shivangigkp16@gmail.com
 
