@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivangi016
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Frontend projects
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on AI & ML projects.
 - 📫 How to reach me shivangigkp16@gmail.com
 
 <!---
